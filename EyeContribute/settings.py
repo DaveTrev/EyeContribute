@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-davetrev-eyecontribute-mo73833cy33.ws-eu102.gitpod.io',
-                 "ecblog.herokuapp.com", "ecblog-2abe5f5bb08f.herokuapp.com" ]
+                 "ecblog.herokuapp.com", "ecblog-2abe5f5bb08f.herokuapp.com"]
 
 
 # Application definition
