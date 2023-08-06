@@ -7,3 +7,6 @@ Deploy
 outline agile / user stories
 wireframe project on paper
 create database / database models and migrate
+
+
+USE SUMMER NOTE FROM POST EDITING!
