@@ -16,6 +16,12 @@ sign up styling
 add single signon
 splash screen page
 
+add event calender
+error message for empty forms / success messages
+social sign in using allauth?
+number of comments method
+
+
 USE SUMMER NOTE FROM POST EDITING!
 https://django-crispy-forms.readthedocs.io/en/latest/index.html used for formatting comments
 
