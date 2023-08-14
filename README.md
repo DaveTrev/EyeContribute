@@ -8,5 +8,15 @@ outline agile / user stories
 wireframe project on paper
 create database / database models and migrate
 
+Sprint 2:
+design
+content
+calender / event add
+sign up styling
+add single signon
+splash screen page
 
 USE SUMMER NOTE FROM POST EDITING!
+https://django-crispy-forms.readthedocs.io/en/latest/index.html used for formatting comments
+
+https://ordinarycoders.com/django-custom-user-profile FOR CREATING CUSTOM USER PROFILES
